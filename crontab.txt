@@ -1,0 +1,1 @@
+*/15 * * * * /opt/45_46_morning/KS/taskKIRA.sh
